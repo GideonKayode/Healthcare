@@ -1,5 +1,5 @@
 # Healthcare
-Early Detection of Diabetes 
+Early Detection of Diabetes (In progress)
 
 ### Background:
 A mobile health clinic wants to pre-screen patients for diabetes using basic health indicators to reduce hospital crowding and focus on at-risk individuals.
